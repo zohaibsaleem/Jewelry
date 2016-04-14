@@ -5,6 +5,7 @@ a[href^="tel:"] {
   color: inherit;
   text-decoration: none;
 }
+<<<<<<< HEAD
 
 mark
 {
@@ -34,6 +35,8 @@ mark
 {
 	    color: #E85356;
 }
+=======
+>>>>>>> 890bca4c1e4c316315fe9c22e4e02136f9fde340
 .color-1 {
   color: #efedef;
 }
@@ -292,7 +295,11 @@ p {
 /*------ content ------- */
 #content {
   position: relative;
+<<<<<<< HEAD
   padding: 0 0 60px;
+=======
+  padding: 0 0 40px;
+>>>>>>> 890bca4c1e4c316315fe9c22e4e02136f9fde340
 }
 .bg-content {
   background: url(../img/bg-content.jpg) 50% 50%;
